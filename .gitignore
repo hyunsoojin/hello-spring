@@ -5,6 +5,9 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
+### property 공개 방지 ###
+!**/src/main/rescourece/application.properties
+
 ### STS ###
 .apt_generated
 .classpath
